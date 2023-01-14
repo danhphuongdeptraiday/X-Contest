@@ -13,7 +13,8 @@ header {
   width: 100%;
   background-color: rgb(67, 63, 63);
   height: 60px;
-  position: relative;
+  position: fixed;
+  z-index: 10;
 }
 
 nav {
