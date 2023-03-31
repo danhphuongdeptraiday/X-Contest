@@ -17,6 +17,10 @@ header {
   z-index: 10;
 }
 
+iframe {
+  box-shadow: none !important;
+}
+
 nav {
   position: absolute;
   top: 50%;
